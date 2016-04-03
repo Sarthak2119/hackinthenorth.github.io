@@ -40,4 +40,9 @@ var projects = {
 		"team":"softvokers",
 		"link":"https://github.com/utk3995/mediquik-"
 	}
+	"Handy":{
+		"image":"images/Handy.png",
+		"team":"Namespace"
+		"link":"https://github.com/Sarthak2119/Handy"
+	}
 }
